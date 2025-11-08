@@ -1,4 +1,4 @@
-Shape Detector Challenge Solution
+**Shape Detector Challenge Solution**
 This repository contains my from-scratch solution to the Shape Detector Challenge. The goal was to implement a complete computer vision pipeline in TypeScript to identify and classify geometric shapes (circles, triangles, rectangles, pentagons, and stars) from a raw ImageData object, without using any external computer vision libraries like OpenCV.
 
 This implementation successfully handles simple shapes, mixed scenes, and complex scenarios like noise and anti-aliasing artifacts.
